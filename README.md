@@ -31,3 +31,11 @@ Se cargó el asistente de instalación, donde introduje el usuario administrador
 
 Por último, comprobé que la instalación funcionaba correctamente iniciando sesión con el usuario administrador y accediendo a las secciones principales (archivos, configuración, etc.).
 También verifiqué que se podía acceder a Nextcloud desde otras máquinas de la misma red, usando la IP de la máquina virtual. De esta forma confirmé que la instalación mediante IsardVDI era correcta y que el servidor estaba listo para el resto de configuraciones de la práctica.
+
+# Demostración del funcionamiento
+
+# Subir archivos
+
+![Logo de Markdown](/captura1.png)
+
+En este apartado explico cómo añadir documentos al servidor. Para ello accedí a la sección Files y utilicé la opción de subir archivos. Seleccioné un documento desde mi ordenador y comprobé que aparecía correctamente en la lista. Con esta prueba verifiqué que Nextcloud guarda los archivos sin errores y que el sistema funciona correctamente en su tarea más básica.
