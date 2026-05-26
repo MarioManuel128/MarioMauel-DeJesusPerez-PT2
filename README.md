@@ -39,3 +39,39 @@ También verifiqué que se podía acceder a Nextcloud desde otras máquinas de l
 ![Logo de Markdown](/captura1.png)
 
 En este apartado explico cómo añadir documentos al servidor. Para ello accedí a la sección Files y utilicé la opción de subir archivos. Seleccioné un documento desde mi ordenador y comprobé que aparecía correctamente en la lista. Con esta prueba verifiqué que Nextcloud guarda los archivos sin errores y que el sistema funciona correctamente en su tarea más básica.
+
+# Crear carpetas
+
+![Logo de Markdown](/captura2.png)
+
+Aquí muestro cómo organizar el contenido dentro del espacio de usuario. Para ello utilicé la opción + New y seleccioné Folder para crear nuevas carpetas. Añadí varias, como Documents o Images, y confirmé que se creaban sin problemas. Este paso demuestra que el usuario puede estructurar su información dentro del servidor.
+
+# Creación de usuarios
+
+# Crear tres usuarios
+
+![Logo de Markdown](/captura3.png)
+
+En esta parte creé tres cuentas distintas dentro del panel de administración: un administrador, un editor y un visualizador. A cada usuario le asigné un nombre, una contraseña y un grupo específico. Esto me permitió comprobar cómo se gestionan las cuentas y cómo se diferencian los roles dentro del sistema.
+
+# Administración de archivos
+
+# Organización de carpetas y archivos
+
+![Logo de Markdown](/captura4.png)
+
+En este apartado organicé el contenido del servidor creando una estructura de carpetas más completa. Añadí directorios como Personal documents, Shared work y Resources, y moví archivos dentro de cada uno para mantener un orden lógico. Esto demuestra que el sistema permite gestionar y estructurar el contenido de forma eficiente.
+
+# Políticas de seguridad
+
+![Logo de Markdown](/captura5.png)
+
+Accedí a la sección Sharing dentro de la administración y activé medidas de seguridad como la caducidad automática de los enlaces públicos y la obligación de usar contraseña al compartir archivos. Estas opciones aumentan la seguridad del servidor y evitan accesos no autorizados.
+
+# Acceso desde una máquina cualquiera de la red
+
+# Configuración de acceso remoto
+
+![Logo de Markdown](/captura6.png)
+
+Para comprobar el acceso desde otra máquina, primero obtuve la dirección IP del servidor ejecutando el comando ip a. Después, desde otro dispositivo conectado a la misma red, introduje esa IP en el navegador y accedí a la página de inicio de sesión de Nextcloud. Esto demuestra que el servicio es accesible desde la red local y que funciona correctamente fuera de la máquina principal.
