@@ -1,7 +1,5 @@
 # MarioMauel-DeJesusPerez-PT2
 
-# Practica_Moodle_Mario
-
 # Manual d’instal·lació de Nextcloud
 
 # Preparación del entorno en IsardVDI
